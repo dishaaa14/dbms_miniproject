@@ -1,0 +1,47 @@
+body{
+    background-image:url("https://images.unsplash.com/photo-1552245504-5b1e10c5c04a?ixid=MXwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHw%3D&ixlib=rb-1.2.1&auto=format&fit=crop&w=925&q=80");
+    font-family: 'Raleway', sans-serif;
+    color: black;
+    background-repeat: no-repeat;
+    background-size: cover;
+    margin-left: 100px;
+  }
+  
+  .go{
+    font-family: 'Raleway', sans-serif;
+    font-size:18px;
+    border-radius:5px;
+    border:none;
+    box-shadow: 3px 3px 5px #8cb3b8;
+    color:#46595C;
+  }
+  
+  .go:hover{
+    cursor:pointer;
+  }
+  
+  h1{
+    text-align:center;
+    font-family: 'Monofett', cursive;
+    font-size:150px;
+    line-height:100px;
+  }
+  
+  .form{
+    text-align:center;
+    font-size:18px;
+    margin:30px;
+  }
+
+  
+
+
+
+  
+
+  
+  
+  
+
+  
+ 
